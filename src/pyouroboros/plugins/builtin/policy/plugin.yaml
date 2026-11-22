@@ -1,0 +1,5 @@
+name: policy
+version: 0.1.0
+api_version: 1
+description: Tool approval policy (mode + ordered rules).
+entrypoint: __init__.py
